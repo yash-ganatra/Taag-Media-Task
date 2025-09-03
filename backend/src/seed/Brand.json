@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Acme Activewear",
+    "category": "Fashion",
+    "budgetINR": 500000,
+    "targetLocations": ["Mumbai","Delhi"],
+    "targetAges": [18,30],
+    "goals": ["installs","awareness"],
+    "tone": ["energetic","clean"],
+    "platforms": ["Instagram","YouTube"],
+    "constraints": {"noAdultContent": true, "timelineDays": 21}
+  },
+  {
+    "name": "FinSmart",
+    "category": "Fintech",
+    "budgetINR": 300000,
+    "targetLocations": ["Bengaluru","Hyderabad"],
+    "targetAges": [22,35],
+    "goals": ["signups","sales"],
+    "tone": ["informative","trustworthy"],
+    "platforms": ["YouTube","LinkedIn"],
+    "constraints": {"noAdultContent": true, "timelineDays": 30}
+  }
+]
+

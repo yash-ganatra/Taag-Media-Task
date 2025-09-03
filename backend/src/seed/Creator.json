@@ -1,0 +1,41 @@
+[
+  {
+    "handle": "@fitwithria",
+    "verticals": ["Fitness","Lifestyle"],
+    "platforms": ["Instagram","YouTube"],
+    "audienceGeo": {"Mumbai": 0.42, "Delhi": 0.2},
+    "audienceAge": {"18-24": 0.55, "25-34": 0.35},
+    "avgViews": 120000,
+    "engagementRate": 0.047,
+    "pastBrandCategories": ["Fashion","Wellness"],
+    "contentTone": ["energetic","fun"],
+    "safetyFlags": {"adult": false, "controversial": false},
+    "basePriceINR": 80000
+  },
+  {
+    "handle": "@techbyraj",
+    "verticals": ["Technology","Education"],
+    "platforms": ["YouTube","LinkedIn"],
+    "audienceGeo": {"Bengaluru": 0.5, "Hyderabad": 0.2},
+    "audienceAge": {"18-24": 0.25, "25-34": 0.5},
+    "avgViews": 95000,
+    "engagementRate": 0.032,
+    "pastBrandCategories": ["EdTech","Fintech"],
+    "contentTone": ["informative","serious"],
+    "safetyFlags": {"adult": false, "controversial": false},
+    "basePriceINR": 60000
+  },
+  {
+    "handle": "@foodiesneha",
+    "verticals": ["Food","Lifestyle"],
+    "platforms": ["Instagram","Reels"],
+    "audienceGeo": {"Delhi": 0.6, "Mumbai": 0.25},
+    "audienceAge": {"18-24": 0.6, "25-34": 0.3},
+    "avgViews": 150000,
+    "engagementRate": 0.056,
+    "pastBrandCategories": ["Food","Hospitality"],
+    "contentTone": ["fun","casual"],
+    "safetyFlags": {"adult": false, "controversial": false},
+    "basePriceINR": 70000
+  }
+]
